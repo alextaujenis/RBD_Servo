@@ -1,4 +1,4 @@
-#Arduino Servo Library v1.0.0
+#Arduino Servo Library v1.0.1
 Control many servos without delay or interrupts while applying rotation adjustments with PWM/PPM.
 
 * [Documentation](http://robotsbigdata.com/docs-arduino-servo.html)
