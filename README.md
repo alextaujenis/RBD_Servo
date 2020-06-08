@@ -1,4 +1,4 @@
-# Arduino Servo Library v1.0.1
+# Arduino Servo Library v1.0.2
 Control many servos without delay or interrupts while applying rotation adjustments with PWM/PPM.
 
 * [Documentation](http://robotsbigdata.com/docs-arduino-servo.html)
@@ -9,4 +9,4 @@ Control many servos without delay or interrupts while applying rotation adjustme
 \**Please include your Arduino make/model and IDE version when reporting an issue with this library.*
 
 # License
-This code is available under the [MIT License](http://opensource.org/licenses/mit-license.php).
+Copyright (c) 2015 Alex Taujenis - MIT License

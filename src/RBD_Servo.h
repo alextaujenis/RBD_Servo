@@ -1,7 +1,6 @@
-// Arduino RBD Servo Library v1.0.1 - Control many servos.
+// Arduino RBD Servo Library v1.0.2 - Control many servos.
 // https://github.com/alextaujenis/RBD_Servo
-// Copyright 2015 Alex Taujenis
-// MIT License
+// Copyright (c) 2015 Alex Taujenis - MIT License
 
 #ifndef RBD_SERVO
 #define RBD_SERVO
